@@ -1,0 +1,4 @@
+com/redhat/cloudnative/InventoryResource.class
+com/redhat/cloudnative/InventoryResource$ErrorMapper.class
+META-INF/panache-archive.marker
+com/redhat/cloudnative/Inventory.class
