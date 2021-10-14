@@ -1,7 +1,0 @@
-com/redhat/cloudnative/CatalogResource.class
-com/redhat/cloudnative/CatalogService.class
-com/redhat/cloudnative/client/InventoryRestClient.class
-META-INF/panache-archive.marker
-com/redhat/cloudnative/Inventory.class
-com/redhat/cloudnative/Product.class
-com/redhat/cloudnative/CatalogResource$ErrorMapper.class
