@@ -80,7 +80,7 @@ Now, is time to test the catalog service running locally. Open a new terminal an
 
 You will be able to access the catalog application, and check that it is able to retrieve the inventory information from the local service:
 
-![image-20220121164139443](/Users/hguerrer/git/coolstore-kubecon/image-20220121164139443.png)
+![image-20220121164139443](image-20220121164139443.png)
 
 ## Deploy to OpenShift
 
