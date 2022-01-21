@@ -31,6 +31,7 @@ public class InventoryResource {
     public List<Inventory> getAvailability(@PathParam String itemId) {
         return Inventory.<Inventory>streamAll()
         .filter(p -> p.itemId.equals(itemId))
+        .map(p -> {p.quantity=10; return p;})
         .collect(Collectors.toList());
     }
 
